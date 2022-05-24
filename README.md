@@ -8,3 +8,11 @@
 - [고정 소수점 & 부동 소수점](https://github.com/seyeonn/CS_Study/blob/main/Computer%20Architecture/%EA%B3%A0%EC%A0%95%20%EC%86%8C%EC%88%98%EC%A0%90%20%26%20%EB%B6%80%EB%8F%99%20%EC%86%8C%EC%88%98%EC%A0%90.md)
 - [패리티 비트 & 해밍 코드](https://github.com/seyeonn/CS_Study/blob/main/Computer%20Architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%20%EB%B9%84%ED%8A%B8%20%26%20%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)
 - [ARM 프로세서](https://github.com/seyeonn/CS_Study/blob/main/Computer%20Architecture/ARM%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C.md)
+
+## chapter2. Operating System
+
+- [운영체제란](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
+- [프로세스 vs 스레드](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%26%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+- [프로세스 주소 공간](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84.md)
+- [인터럽트(Interrupt)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
+- [시스템 콜(System Call)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C.md)

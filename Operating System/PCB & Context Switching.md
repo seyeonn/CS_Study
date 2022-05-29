@@ -17,6 +17,8 @@
 
 이러한 정보들이 담긴 메타데이터는 프로세스가 생성되면 **PCB(Process Control Block)** 이라는 곳에 저장이 된다.
 
+<br/>
+
 ## PCB(Process Control Block)
 
 > 프로세스 메타데이터들을 저장해놓은 곳이다. 
@@ -31,16 +33,22 @@
 3. 프로세스 주소 공간에 (코드, 데이터, 스택) 생성
 4. 이 프로세스의 메타데이터들이 PCB에 저장
 
+<br/>
+
 ### PCB 상세 구조
 
 - Process State : 프로세스 상태(Create, Ready, Running, Block, terminated)
 - Process Counter : 다음 실행할 명령어의 주솟값
 - CPU Registers : accumulator, index register, stack pointers, general purpose registers.
 
+<br/>
+
 ### PCB가 필요한 이유
 
 CPU에서는 프로세스의 상태에 따라 교체 작업이 이루어진다. (Interrupt가 발생해서 할당받은 프로세스가 Block(Waiting) 상태가 되고 다른 프로세스를 Running으로 바꿀 때)
 **이때, 앞으로 다시 수행할 Block 상태의 프로세스의 상태값을 PCB에 저장해두는 것**이다.
+
+<br/>
 
 ### PCB 관리 방식
 
@@ -49,6 +57,8 @@ CPU에서는 프로세스의 상태에 따라 교체 작업이 이루어진다. 
 - **즉, 프로세스가 생성되면 해당 PCB가 생성되고 프로세스 완료 시 제거가 된다.**
 - 이렇게 수행 중인 프로세스를 변경할 때, **CPU의 레지스터 정보가 변경되는 것**을 **Context Switching이라고 한다.**
 
+<br/>
+
 ## Context Switching
 
 1. CPU가 현재 실행하고 있는 Task(Process, Thread)의 상태를 저장하고, 다음 진행할 Task의 상태 및 Register 값들에 대한 정보(Context)를 읽어 새로운 Task의 Context 정보로 교체하는 과정
@@ -56,6 +66,8 @@ CPU에서는 프로세스의 상태에 따라 교체 작업이 이루어진다. 
 2. CPU가 이전의 프로세스 상태를 PCB에 보관하고, 또 다른 프로세스의 정보를 PCB에서 읽어서 레지스터에 적재하는 과정
 
 3. 다중 프로그래밍 시스템에서 CPU가 할당되는 프로세스를 변경하기 위해 현재 CPU를 사용하여 실행되고 있는 프로세서의 상태 정보를 저장하고 제어권을 인터럽트 서비스 루틴(ISR)에게 넘기는 작업
+
+<br/>
 
 ### Context Switching이 필요한 이유
 
@@ -70,6 +82,8 @@ CPU에서는 프로세스의 상태에 따라 교체 작업이 이루어진다. 
 - 빠르게 Task를 바꾸면서 실행하기에 사람은 실시간처리가 되는 것처럼 보인다.
 - CPU가 Task를 바꿔가며 실행하기 위해 Context Switching이 필요하게 되었다.
 
+<br/>
+
 ### Context Switching 수행 과정
 
 1. Task의 대부분 정보는 Register에 저장되고 PCB(Process Control Block)로 관리가 되고 있다.
@@ -77,6 +91,8 @@ CPU에서는 프로세스의 상태에 따라 교체 작업이 이루어진다. 
 2. 현재 실행하고 있는 Task의 PCB 정보를 저장하게 된다.(Process Stack, Ready Queue)
 
 3. 다음 실행할 Task의 PCB 정보를 읽어 Register에 적재하고 CPU가 이전에 진행했던 과정을 연속적으로 수행할 수 있게 된다.
+
+<br/>
 
 ### Context Switching과 시간 할당량
 

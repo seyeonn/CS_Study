@@ -16,3 +16,4 @@
 - [프로세스 주소 공간](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84.md)
 - [인터럽트(Interrupt)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
 - [시스템 콜(System Call)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C.md)
+- [PCB & Context Switching](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/PCB%20%26%20Context%20Switching.md)

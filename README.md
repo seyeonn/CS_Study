@@ -18,3 +18,4 @@
 - [시스템 콜(System Call)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C.md)
 - [PCB & Context Switching](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/PCB%20%26%20Context%20Switching.md)
 - [IPC (Inter-Process Communication)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/IPC(Inter%20Process%20Communication).md)
+- [CPU 스케줄링](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)

@@ -23,3 +23,4 @@
 - [경쟁 상태(Race Condition)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EA%B2%BD%EC%9F%81%20%EC%83%81%ED%83%9C(Race%20Condition).md)
 - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20%26%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
 - [페이징 & 세그멘테이션](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98.md)
+- [페이지 교체 알고리즘](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)

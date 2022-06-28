@@ -74,6 +74,7 @@
 ![f4](https://user-images.githubusercontent.com/38287375/176490147-753736db-5c5a-425e-96e2-fda882ae9a4c.png)
 
 **모든 파일들이 디렉터리 밑에 존재하는 형태**
+
 파일들을 서로 유일한 이름을 가짐. 서로 다른 사용자라도 같은 이름 사용 불가.
 
 ### 2. 2단계 디렉터리 (Two-Level Directory)
@@ -115,6 +116,7 @@
 ![f8](https://user-images.githubusercontent.com/38287375/176491667-ea5ee3a6-961a-479d-9f30-149de83dd99d.png)
 
 **순환을 허용하는 그래프 구조**
+
 순환이 허용되면 무한 루프에 빠질 수 있다.
 따라서, 하위 디렉터리가 아닌 파일에 대한 링크만 허용하거나 Garbage Collection을 통해 전체 파일 시스템을 순회하고, 접근 가능한 모든 것을 표시한다.
 

@@ -25,3 +25,4 @@
 - [페이징 & 세그멘테이션](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98.md)
 - [페이지 교체 알고리즘](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [메모리(Memory)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%EB%A9%94%EB%AA%A8%EB%A6%AC(Memory).md)
+- [파일 시스템(File System)](https://github.com/seyeonn/CS_Study/blob/main/Operating%20System/%ED%8C%8C%EC%9D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C(File%20System).md)

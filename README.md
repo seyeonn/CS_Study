@@ -30,3 +30,8 @@
 ## chapter3. Software Engineering
 
 -[클린코드 & 리팩토링](https://github.com/seyeonn/CS_Study/blob/main/Software%20Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81.md)
+
+
+## chapter4. Web
+
+-[브라우저 동작 방법](https://github.com/seyeonn/CS_Study/blob/main/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)

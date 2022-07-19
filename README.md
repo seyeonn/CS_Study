@@ -38,3 +38,4 @@
 - [쿠키(Cookie) & 세션(Session)](https://github.com/seyeonn/CS_Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%20%26%20%EC%84%B8%EC%85%98(Session).md)
 - [HTTP status code](https://github.com/seyeonn/CS_Study/blob/main/Web/HTTP%20status%20code.md)
 - [REST API](https://github.com/seyeonn/CS_Study/blob/main/Web/REST%20API.md)
+- [Web Server와 WAS의 차이](https://github.com/seyeonn/CS_Study/blob/main/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)

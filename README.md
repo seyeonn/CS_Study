@@ -40,3 +40,4 @@
 - [REST API](https://github.com/seyeonn/CS_Study/blob/main/Web/REST%20API.md)
 - [Web Server와 WAS의 차이](https://github.com/seyeonn/CS_Study/blob/main/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [OAuth](https://github.com/seyeonn/CS_Study/blob/main/Web/OAuth.md)
+- [JWT (JSON Web Token)](https://github.com/seyeonn/CS_Study/blob/main/Web/JWT%20(JSON%20Web%20Token).md)

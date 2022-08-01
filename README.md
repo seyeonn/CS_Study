@@ -42,3 +42,4 @@
 - [OAuth](https://github.com/seyeonn/CS_Study/blob/main/Web/OAuth.md)
 - [JWT (JSON Web Token)](https://github.com/seyeonn/CS_Study/blob/main/Web/JWT%20(JSON%20Web%20Token).md)
 - [Authentication & Authorization](https://github.com/seyeonn/CS_Study/blob/main/Web/Authentication%20%26%20Authorization.md)
+- [Logging Level](https://github.com/seyeonn/CS_Study/blob/main/Web/Logging%20Level.md)

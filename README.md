@@ -49,3 +49,6 @@
 - [네이티브 앱 vs 웹 앱 vs 하이브리드 앱](https://github.com/seyeonn/CS_Study/blob/main/Web/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20vs%20%EC%9B%B9%20%EC%95%B1%20vs%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
 - [PWA (Progressive Web App)](https://github.com/seyeonn/CS_Study/blob/main/Web/PWA%20(Progressive%20Web%20App).md)
 - [XSS & CSRF](https://github.com/seyeonn/CS_Study/blob/main/Web/XSS%20%26%20CSRF.md)
+
+- Spring
+    - [Bean Scope](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/Bean%20Scope.md)

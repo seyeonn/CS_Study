@@ -30,9 +30,9 @@
 3. Request
 	- 해당 Bean에 대해 하나의 HTTP Request의 라이프 사이클에서 단 하나의 객체로만 존재한다.
 4. Session
-- 해당 Bean에 대해 하나의 HTTP Session의 라이프사이클에서 단 하나의 객체로만 존재한다.
+    - 해당 Bean에 대해 하나의 HTTP Session의 라이프사이클에서 단 하나의 객체로만 존재한다.
 5. Global Session
-- 해당 Bean에 대해 하나의 Global HTTP Session의 라이프사이클에서 단 하나의 객체로만 존재한다.
+    - 해당 Bean에 대해 하나의 Global HTTP Session의 라이프사이클에서 단 하나의 객체로만 존재한다.
 
 > Request, Session, Global Session은 MVC 웹 어플리케이션에서만 사용함
 

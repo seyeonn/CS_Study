@@ -54,3 +54,4 @@
     - [[Spring] Bean Scope](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%5D%20Bean%20Scope.md)
     - [[Spring] Spring MVC Framework](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%5D%20Spring%20MVC%20Framework.md)
     - [[SpringBoot] SpringApplication](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpringBoot%5D%20SpringApplication.md)
+    - [[SpringBoot] Test Code](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpringBoot%5D%20Test%20Code.md)

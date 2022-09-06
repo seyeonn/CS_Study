@@ -55,3 +55,4 @@
     - [[Spring] Spring MVC Framework](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%5D%20Spring%20MVC%20Framework.md)
     - [[SpringBoot] SpringApplication](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpringBoot%5D%20SpringApplication.md)
     - [[SpringBoot] Test Code](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpringBoot%5D%20Test%20Code.md)
+    - [[Spring JPA] JPA](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%20JPA%5D%20JPA.md)

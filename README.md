@@ -56,3 +56,4 @@
     - [[SpringBoot] SpringApplication](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpringBoot%5D%20SpringApplication.md)
     - [[SpringBoot] Test Code](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpringBoot%5D%20Test%20Code.md)
     - [[Spring JPA] JPA](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%20JPA%5D%20JPA.md)
+    - [[Spring Data JPA] 더티 체킹(Dirty Checking)](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%20Data%20JPA%5D%20%EB%8D%94%ED%8B%B0%20%EC%B2%B4%ED%82%B9(Dirty%20Checking).md)

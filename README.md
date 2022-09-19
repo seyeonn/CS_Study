@@ -58,3 +58,5 @@
     - [[Spring JPA] JPA](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%20JPA%5D%20JPA.md)
     - [[Spring Data JPA] 더티 체킹(Dirty Checking)](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%20Data%20JPA%5D%20%EB%8D%94%ED%8B%B0%20%EC%B2%B4%ED%82%B9(Dirty%20Checking).md)
     - [[Spring Security] Authentication and Authorization](https://github.com/seyeonn/CS_Study/blob/main/Web/Spring/%5BSpring%20Security%5D%20Authentication%20and%20Authorization.md)
+- Vue.js
+    - [Vue.js 라이프사이클](https://github.com/seyeonn/CS_Study/blob/main/Web/Vue/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md)

@@ -61,3 +61,6 @@
 - Vue.js
     - [Vue.js 라이프사이클](https://github.com/seyeonn/CS_Study/blob/main/Web/Vue/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md)
     - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/seyeonn/CS_Study/blob/main/Web/Vue/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+
+- Database
+    - [Key(키)](https://github.com/seyeonn/CS_Study/blob/main/Database/Key.md)
